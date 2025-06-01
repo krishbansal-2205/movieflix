@@ -4,7 +4,7 @@
       "slug": "movies-app",
       "version": "1.0.0",
       "orientation": "portrait",
-      "icon": "./assets/images/loco.png",
+      "icon": "./assets/images/logo.png",
       "scheme": "moviesapp",
       "userInterfaceStyle": "automatic",
       "newArchEnabled": true,
